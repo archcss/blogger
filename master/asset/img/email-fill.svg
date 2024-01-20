@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/email-fill</title>
+    <defs>
+        <path d="M19.0064,6 L12.5014,10.468 C12.1944,10.643 11.8184,10.643 11.5114,10.468 L5.0064,6 L19.0064,6 Z M19.0064,4 L5.0064,4 C3.3524,4 2.0064,5.346 2.0064,7 L2.0064,17 C2.0064,18.654 3.3524,20 5.0064,20 L19.0064,20 C20.6604,20 22.0064,18.654 22.0064,17 L22.0064,7 C22.0064,5.346 20.6604,4 19.0064,4 L19.0064,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/email-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="🎨-Icon-Сolor" fill="#192038" xlink:href="#path-1"></use>
+    </g>
+</svg>
